@@ -16,7 +16,7 @@ export default function Experience() {
         Work History
       </div>
       <h2 className="font-serif text-[clamp(40px,5vw,64px)] font-normal leading-tight mb-16">
-        Where I've
+        Where I&#39;ve
         <br />
         <em className="italic text-muted">made an impact</em>
       </h2>
